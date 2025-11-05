@@ -1,0 +1,119 @@
+# Qyzyl License v1.0 (2025)
+
+**Copyright (C) 2025 The Qyzyl Project**  
+All rights reserved.  
+<https://qyzyl.xyz>  
+
+---
+
+## 1. Freedom and Redistribution
+
+This software and its source code are released under the **Qyzyl License**.  
+You are free to use, study, modify, and redistribute this software in any form,  
+including for commercial or non-commercial purposes, provided that  
+you comply with the following conditions.
+
+---
+
+## 2. Copyleft Requirement
+
+Any modified version, derivative work, or redistribution — whether in source or binary form —  
+**must also be licensed under the Qyzyl License**.  
+This ensures that all versions of this software remain free and open forever.
+
+You may not relicense, sublicense, or combine this code into a project  
+that uses a different or more restrictive license.
+
+---
+
+## 3. Source Code Availability
+
+If you distribute binaries, modified versions, or derivative works of this software,  
+you **must make the complete and corresponding source code**  
+available to the public in an easily accessible form  
+(e.g., via a public Git repository or downloadable archive).  
+
+Private, non-public distributions are permitted for testing or internal use  
+only if no third-party users are affected.
+
+---
+
+## 4. Modification and Publication
+
+You may freely modify, adapt, or extend this software.  
+You may publish or distribute modified versions,  
+provided that you retain:
+
+- the original copyright notice,  
+- the full text of this license,  
+- and clear documentation of the changes you made.
+
+Attribution must state:
+
+> “Based on Qyzyl Software Distribution © The Qyzyl Project.”
+
+---
+
+## 5. Commercial Use
+
+Commercial use, resale, and monetization of this software or derivative works  
+are **explicitly permitted**, provided that  
+the resulting work remains under the Qyzyl License and  
+the corresponding source code is made publicly available.
+
+---
+
+## 6. Disclaimer of Warranty
+
+This software is provided “AS IS” without any warranty of any kind,  
+express or implied, including but not limited to  
+the warranties of merchantability, fitness for a particular purpose,  
+and non-infringement.  
+
+In no event shall the authors or copyright holders  
+be liable for any claim, damages, or other liability,  
+arising from the use or distribution of this software.
+
+---
+
+## 7. Qyzyl Mark and Branding
+
+The **“Qyzyl”** name, logo, and brand identity  
+may not be used to endorse or promote derivative products  
+without explicit written permission from The Qyzyl Project.  
+
+However, factual attribution such as  
+“based on Qyzyl Software Distribution” is allowed and encouraged.
+
+---
+
+## 8. Compatibility
+
+The Qyzyl License is designed to be GPL-compatible.  
+Projects under the GNU GPL v3 or later  
+may include or link Qyzyl-licensed code,  
+as long as the resulting work remains under a copyleft license.
+
+---
+
+## 9. Termination
+
+Failure to comply with any of the above conditions  
+automatically terminates your rights under this license.  
+Upon termination, you must cease all distribution  
+until compliance is restored.
+
+---
+
+## 10. Summary (non-binding)
+
+- You can use, modify, and share freely.  
+- You can earn money from it.  
+- You **must** keep it open and under the same license.  
+- You **must** publish the source code.  
+- You **cannot** close or relicense it.  
+- You **must** credit the Qyzyl Project.  
+
+---
+
+End of Qyzyl License v1.0
